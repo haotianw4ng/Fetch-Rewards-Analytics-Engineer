@@ -1,6 +1,7 @@
 # Fetch-Rewards-Analytics-Engineer
 
 ## First: Review Unstructured Data and Diagram a New Structured Relational Data Model
+The code that I used to review the data structure is in json_analysis.ipynb
 
 ![58825b6b2f67ff068627f0872242a5f](https://github.com/haotianw4ng/Fetch-Rewards-Analytics-Engineer/assets/44035650/2959e0c0-7d72-43b1-8e77-f4f1a8724654)
 
